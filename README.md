@@ -1,1 +1,1 @@
-# tkinter-practice
+i wanted to try using tkinter to create a real-world program that we use often, saving and opening files. Intially I wanted to use code from a encrypter/decrypter I used earlier and give it an interface but I decided to practice first with tkinter by creating a file interface and save that project for another time. 
